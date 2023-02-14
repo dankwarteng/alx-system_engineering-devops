@@ -48,7 +48,7 @@ Task 23: command that finds all empty files and directories in the current direc
 
 Task 24: script that lists all the files with a .gif extension in the current directory and all its sub-directories
 
-Task 25: An acrostic
+Task 25: An acrostic (Poem)
 
 Task 26: script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests
   
