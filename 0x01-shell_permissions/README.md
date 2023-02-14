@@ -29,6 +29,6 @@ Task 14: script that changes the owner to vincent and the group owner to staff f
 
 Task 15: script that changes the owner and the group owner of _hello to vincent and staff respectively
 
-Task 16: script that changes the owner of the file hello to betty only if it is owned by the user guillaume
+Task 16: A script that changes the owner of the file hello to betty only if it is owned by the user guillaume
 
-Task 17: script that will play the StarWars IV episode in the terminal
+Task 17: A script that will play the StarWars IV episode in the terminal
